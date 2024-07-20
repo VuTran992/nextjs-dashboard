@@ -12,3 +12,4 @@ pnpm i - install project packages.
 pnpm dev - start the development server.
 
 NOTE: Getting Started - dashboard project.
+https://vercel.com/vutran992s-projects/nextjs-dashboard/G244rB9KicNTQ7utTVPAr95isbfv
